@@ -18,7 +18,7 @@ import org.junit.jupiter.api.BeforeEach;
 import java.util.concurrent.TimeUnit;
 
 public class FirstTest {
-    String SITE_URL = "https://www.google.com/";
+    String SITE_URL = "https://www.google.ru/";
     public WebDriver driver = new ChromeDriver();
     public WebElement searchBox;
 
